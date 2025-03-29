@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    color: darkblue;
+    font-family: Arial;
+}
+nav {
+    background-color: darkblue;
+    padding: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+.course-card {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px gray;
+}
